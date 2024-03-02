@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @johnnyy06
+- 👋 Hi, I’m Tătar Ioan Dan, a motivated, young and professional university student.
 - 👀 I’m interested in: improving myself, reading, computer science and developing all kind of software projects.
+- 📚 I have intermediate knowledge in: OOP, Data Structures and Algorithms, C and C++ programming. Also basic knowledge in Java programming.
 - 📫 You can reach me via email at: tatar.ionut2003@gmail.com
 
 <!---
